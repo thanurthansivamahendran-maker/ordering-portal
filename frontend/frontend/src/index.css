@@ -51,6 +51,7 @@
 }
 
 body {
+  background-color: red !important;
   margin: 0;
 }
 
